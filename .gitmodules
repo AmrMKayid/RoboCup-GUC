@@ -1,3 +1,6 @@
 [submodule "rcrs-server"]
 	path = rcrs-server
 	url = https://github.com/roborescue/rcrs-server.git
+[submodule "rcrs-adf-sample"]
+	path = rcrs-adf-sample
+	url = https://github.com/roborescue/rcrs-adf-sample.git
